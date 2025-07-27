@@ -125,7 +125,7 @@
                         <div class="about-three-content rmb-55">
                             <div class="section-title mb-30">
                                 <span class="subtitle color-primary mt-10 mb-15">About Agency</span>
-                                <h2>Welcome Ridda Video Marketing Agency to grow your business</h2>
+                                <h2>Welcome Empireword Video Marketing Agency to grow your business</h2>
                             </div>
                             <p>Understanding your marketing videos’ performance can be like looking for  a needle in a haystack. Vidyard’s online video marketing platform is a  magnet for your needle.</p>
                             <a href="{{ route('about') }}" class="theme-btn hover-secondary color-white mt-20" data-hover="Learn More Us">
@@ -271,7 +271,7 @@
                                     <div class="author-logo">
                                         <div class="quote"><i class="flaticon-quotation-mark"></i></div>
                                     </div>
-                                    <div class="text">" Working with Ridda has been game-changer for our social media presence. Their strategic to approach and attention too detail have help reach heights"</div>
+                                    <div class="text">" Working with Empireword has been game-changer for our social media presence. Their strategic to approach and attention too detail have help reach heights"</div>
                                     <div class="quote-title">
                                         <div class="author"><img src="{{ asset('/assets/images/testimonials/author1.jpg') }}" alt="Author"></div>
                                         <h6>Randall J. Ferguson</h6>
@@ -282,7 +282,7 @@
                                     <div class="author-logo">
                                         <div class="quote"><i class="flaticon-quotation-mark"></i></div>
                                     </div>
-                                    <div class="text">" Working with Ridda has been game-changer for our social media presence. Their strategic to approach and attention too detail have help reach heights"</div>
+                                    <div class="text">" Working with Empireword has been game-changer for our social media presence. Their strategic to approach and attention too detail have help reach heights"</div>
                                     <div class="quote-title">
                                         <div class="author"><img src="{{ asset('/assets/images/testimonials/author2.jpg') }}" alt="Author"></div>
                                         <h6>Randall J. Ferguson</h6>
@@ -293,7 +293,7 @@
                                     <div class="author-logo">
                                         <div class="quote"><i class="flaticon-quotation-mark"></i></div>
                                     </div>
-                                    <div class="text">" Working with Ridda has been game-changer for our social media presence. Their strategic to approach and attention too detail have help reach heights"</div>
+                                    <div class="text">" Working with Empireword has been game-changer for our social media presence. Their strategic to approach and attention too detail have help reach heights"</div>
                                     <div class="quote-title">
                                         <div class="author"><img src="{{ asset('/assets/images/testimonials/author1.jpg') }}" alt="Author"></div>
                                         <h6>Randall J. Ferguson</h6>
@@ -304,7 +304,7 @@
                                     <div class="author-logo">
                                         <div class="quote"><i class="flaticon-quotation-mark"></i></div>
                                     </div>
-                                    <div class="text">" Working with Ridda has been game-changer for our social media presence. Their strategic to approach and attention too detail have help reach heights"</div>
+                                    <div class="text">" Working with Empireword has been game-changer for our social media presence. Their strategic to approach and attention too detail have help reach heights"</div>
                                     <div class="quote-title">
                                         <div class="author"><img src="{{ asset('/assets/images/testimonials/author2.jpg') }}" alt="Author"></div>
                                         <h6>Randall J. Ferguson</h6>
@@ -453,7 +453,7 @@
                         <div class="why-choose-left py-100 d-flex flex-column h-100 align-items-start">
                             <div class="section-title mb-45">
                                 <span class="subtitle mt-10 mb-15">Why Choose Us?</span>
-                                <h2>Why People Choose Our Ridda Agency Service</h2>
+                                <h2>Why People Choose Our Empireword Agency Service</h2>
                             </div>
                             <div class="text mt-auto">
                                 Video marketing has become a powerful tool for businesses to connect with their audience to more engaging and memorable way the visual and auditory elements of video, companies
@@ -573,7 +573,7 @@
                                 <div class="icon"><i class="flaticon-email"></i></div>
                                 <div class="text">
                                     Email Address
-                                    <span class="h6"><a href="mailto:support@gmail.com">support@gmail.com</a></span>
+                                    <span class="h6"><a href="mailto:info@empireword.com">info@empireword.com</a></span>
                                 </div>
                             </div>
                             <div class="contact-info-two-item">

@@ -105,7 +105,7 @@
                     </div>
                     <div class="col-xl-4 col-lg-5">
                         <div class="text mb-25" data-aos="fade-right" data-aos-duration="1500" data-aos-offset="50">
-                            <p>At Ridda we offer a comprehensive range of social media marketing services to help businesses of all sizes succeed online transactions are completed.</p>
+                            <p>At Empireword we offer a comprehensive range of social media marketing services to help businesses of all sizes succeed online transactions are completed.</p>
                         </div>
                     </div>
                 </div>
@@ -159,7 +159,7 @@
             <div class="container bordered-x py-130 rpy-100 bgp-bottom" style="background-image: url(assets/images/background/tab-bg-dots.png);">
                 <div class="section-title mb-50 text-center" data-aos="fade-up" data-aos-duration="1500" data-aos-offset="50">
                     <span class="subtitle mt-10 mb-15">Why Choose Us</span>
-                    <h2>Why Choose Ridda Agency</h2>
+                    <h2>Why Choose Empireword Agency</h2>
                 </div>
                 <div class="text-center" data-aos="fade-up" data-aos-duration="1500" data-aos-offset="50" data-aos-delay="50">
                     <ul class="nav tab-style-one mb-70" role="tablist">
@@ -269,7 +269,7 @@
                                     <div class="author"><img src="{{ asset('/assets/images/testimonials/author1.jpg') }}" alt="Author"></div>
                                     <div class="logo"><img src="{{ asset('/assets/images/testimonials/logo1.png') }}" alt="Logo"></div>
                                 </div>
-                                <div class="text">" Working with Ridda has been game-changer for our social media presence. Their strategic to approach and attention too detail have helped us reach new heights"</div>
+                                <div class="text">" Working with Empireword has been game-changer for our social media presence. Their strategic to approach and attention too detail have helped us reach new heights"</div>
                                 <div class="quote-title">
                                     <div class="quote"><i class="flaticon-quotation-mark"></i></div>
                                     <h6>Randall J. Ferguson</h6>
@@ -281,7 +281,7 @@
                                     <div class="author"><img src="{{ asset('/assets/images/testimonials/author2.jpg') }}" alt="Author"></div>
                                     <div class="logo"><img src="{{ asset('/assets/images/testimonials/logo2.png') }}" alt="Logo"></div>
                                 </div>
-                                <div class="text">" Working with Ridda has been game-changer for our social media presence. Their strategic to approach and attention too detail have helped us reach new heights"</div>
+                                <div class="text">" Working with Empireword has been game-changer for our social media presence. Their strategic to approach and attention too detail have helped us reach new heights"</div>
                                 <div class="quote-title">
                                     <div class="quote"><i class="flaticon-quotation-mark"></i></div>
                                     <h6>Thomas L. Brinker</h6>
@@ -293,7 +293,7 @@
                                     <div class="author"><img src="{{ asset('/assets/images/testimonials/author1.jpg') }}" alt="Author"></div>
                                     <div class="logo"><img src="{{ asset('/assets/images/testimonials/logo1.png') }}" alt="Logo"></div>
                                 </div>
-                                <div class="text">" Working with Ridda has been game-changer for our social media presence. Their strategic to approach and attention too detail have helped us reach new heights"</div>
+                                <div class="text">" Working with Empireword has been game-changer for our social media presence. Their strategic to approach and attention too detail have helped us reach new heights"</div>
                                 <div class="quote-title">
                                     <div class="quote"><i class="flaticon-quotation-mark"></i></div>
                                     <h6>Randall J. Ferguson</h6>
@@ -305,7 +305,7 @@
                                     <div class="author"><img src="{{ asset('/assets/images/testimonials/author2.jpg') }}" alt="Author"></div>
                                     <div class="logo"><img src="{{ asset('/assets/images/testimonials/logo2.png') }}" alt="Logo"></div>
                                 </div>
-                                <div class="text">" Working with Ridda has been game-changer for our social media presence. Their strategic to approach and attention too detail have helped us reach new heights"</div>
+                                <div class="text">" Working with Empireword has been game-changer for our social media presence. Their strategic to approach and attention too detail have helped us reach new heights"</div>
                                 <div class="quote-title">
                                     <div class="quote"><i class="flaticon-quotation-mark"></i></div>
                                     <h6>Thomas L. Brinker</h6>
@@ -399,9 +399,9 @@
                         <div class="about-content ms-xl-5 rmb-55">
                             <div class="section-title mb-30">
                                 <span class="subtitle mt-10 mb-15">Who We Are</span>
-                                <h2>About Our Ridda Agency</h2>
+                                <h2>About Our Empireword Agency</h2>
                             </div>
-                            <p>At Ridda , we're passionate about helping businesses succeed in the digital world. With years of experience and a dedication to innovation, we've built a reputation for delivering exceptional results</p>
+                            <p>At Empireword , we're passionate about helping businesses succeed in the digital world. With years of experience and a dedication to innovation, we've built a reputation for delivering exceptional results</p>
                             <a href="{{ route('about') }}" class="read-more mt-10">Continue Reading <i class="far fa-arrow-right"></i></a>
                         </div>
                     </div>
@@ -571,14 +571,14 @@
                                     <div class="col-sm-6">
                                         <div class="contact-info-item" data-aos="zoom-in" data-aos-duration="1500" data-aos-offset="50" data-aos-delay="50">
                                             <div class="icon"><i class="far fa-map-marker-alt"></i></div>
-                                            <div class="text">57 Main Street, d-block Melbourne, Australia</div>
+                                            <div class="text">Kanpur, UP, India</div>
                                         </div>
                                     </div>
                                     <div class="col-sm-6">
                                         <div class="contact-info-item" data-aos="zoom-in" data-aos-duration="1500" data-aos-offset="50" data-aos-delay="50">
                                             <div class="icon"><i class="far fa-envelope"></i></div>
                                             <div class="text">
-                                                <a href="mailto:support@gmail.com">support@gmail.com</a><br>
+                                                <a href="mailto:info@empireword.com">info@empireword.com</a><br>
                                                 <a href="www.sayan.net" target="_blank">www.sayan.net</a>
                                             </div>
                                         </div>

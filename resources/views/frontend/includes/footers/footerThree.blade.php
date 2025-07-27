@@ -20,7 +20,7 @@
                                 <div class="icon"><i class="flaticon-email"></i></div>
                                 <div class="text">
                                     Email Address
-                                    <span class="h6"><a href="mailto:support@gmail.com">support@gmail.com</a></span>
+                                    <span class="h6"><a href="mailto:info@empireword.com">info@empireword.com</a></span>
                                 </div>
                             </div>
                             <div class="contact-info-two-item">
@@ -84,7 +84,7 @@
                     <div class="row">
                        <div class="col-lg-5">
                             <div class="copyright-text text-center text-lg-start">
-                                <p>Copyright © <a href="{{ route('home') }}">Ridda</a>, all rights reserved.</p>
+                                <p>Copyright © <a href="{{ route('home') }}">Empireword</a>, all rights reserved.</p>
                             </div>
                        </div>
                        <div class="col-lg-7 text-center text-lg-end">

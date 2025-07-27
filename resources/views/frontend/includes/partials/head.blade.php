@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 <!-- Title -->
-<title>Ridda - Web Design & SEO Laravel Template @yield('title')</title>
+<title>Empireword - Web Design & SEO Agency</title>
 <!-- Favicon Icon -->
 <link rel="shortcut icon" href="assets/images/logos/favicon.png" type="image/x-icon">
 <!-- Google Fonts -->

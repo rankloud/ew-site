@@ -11,7 +11,7 @@
                         <div class="footer-widget footer-contact">
                             <p>Get in touch with our team</p>
                             <div class="section-title">
-                                <h2><a href="mailto:support@gmail.com">support@gmail.com</a></h2>
+                                <h2><a href="mailto:info@empireword.com">info@empireword.com</a></h2>
                             </div>
                             <div class="social-style-two mt-10">
                                 <a href="{{ route('contact') }}"><i class="fab fa-facebook-f"></i></a>
@@ -34,7 +34,7 @@
                        </div>
                        <div class="col-md-9 text-center text-lg-end">
                             <div class="copyright-text text-center text-md-end">
-                                <p>Copyright © <a href="{{ route('home') }}">Ridda</a>, all rights reserved.</p>
+                                <p>Copyright © <a href="{{ route('home') }}">Empireword</a>, all rights reserved.</p>
                             </div>
                        </div>
                     </div>

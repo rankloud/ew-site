@@ -112,7 +112,7 @@
                         <div class="about-content-four">
                             <div class="section-title mb-40">
                                 <span class="subtitle mt-10 mb-15">About Agency</span>
-                                <h2>Technology Transforming Ideas into Reality Empowering Brands with Engaging <span>Ridda</span> Agency</h2>
+                                <h2>Technology Transforming Ideas into Reality Empowering Brands with Engaging <span>Empireword</span> Agency</h2>
                             </div>
                             <p>At our web design agency, we specialize in creating visually stunning and highly functional websites that help businesses stand out in the digital world. Our team of talented designers and developers are passionate about crafting</p>
                             <ul class="list-style-one my-30">
@@ -364,7 +364,7 @@
                                         <div class="quote"><i class="flaticon-quotation-mark"></i></div>
                                         <div class="logo"><img src="{{ asset('/assets/images/testimonials/logo3.png') }}" alt="Logo"></div>
                                     </div>
-                                    <div class="text">" Working with Ridda has been game-changer for our see social media presence. Their strategic to approach and the attention too detail have help reach heights"</div>
+                                    <div class="text">" Working with Empireword has been game-changer for our see social media presence. Their strategic to approach and the attention too detail have help reach heights"</div>
                                     <div class="quote-title">
                                         <div class="author"><img src="{{ asset('/assets/images/testimonials/author1.jpg') }}" alt="Author"></div>
                                         <h6>Randall J. Ferguson</h6>
@@ -376,7 +376,7 @@
                                         <div class="quote"><i class="flaticon-quotation-mark"></i></div>
                                         <div class="logo"><img src="{{ asset('/assets/images/testimonials/logo1.png') }}" alt="Logo"></div>
                                     </div>
-                                    <div class="text">" Working with Ridda has been game-changer for our social media presence. Their strategic to approach and attention too detail have helped us reach new heights"</div>
+                                    <div class="text">" Working with Empireword has been game-changer for our social media presence. Their strategic to approach and attention too detail have helped us reach new heights"</div>
                                     <div class="quote-title">
                                         <div class="author"><img src="{{ asset('/assets/images/testimonials/author2.jpg') }}" alt="Author"></div>
                                         <h6>Randall J. Ferguson</h6>
@@ -388,7 +388,7 @@
                                         <div class="quote"><i class="flaticon-quotation-mark"></i></div>
                                         <div class="logo"><img src="{{ asset('/assets/images/testimonials/logo3.png') }}" alt="Logo"></div>
                                     </div>
-                                    <div class="text">" Working with Ridda has been game-changer for our social media presence. Their strategic to approach and attention too detail have helped us reach new heights"</div>
+                                    <div class="text">" Working with Empireword has been game-changer for our social media presence. Their strategic to approach and attention too detail have helped us reach new heights"</div>
                                     <div class="quote-title">
                                         <div class="author"><img src="{{ asset('/assets/images/testimonials/author1.jpg') }}" alt="Author"></div>
                                         <h6>Randall J. Ferguson</h6>
@@ -400,7 +400,7 @@
                                         <div class="quote"><i class="flaticon-quotation-mark"></i></div>
                                         <div class="logo"><img src="{{ asset('/assets/images/testimonials/logo1.png') }}" alt="Logo"></div>
                                     </div>
-                                    <div class="text">" Working with Ridda has been game-changer for our social media presence. Their strategic to approach and attention too detail have helped us reach new heights"</div>
+                                    <div class="text">" Working with Empireword has been game-changer for our social media presence. Their strategic to approach and attention too detail have helped us reach new heights"</div>
                                     <div class="quote-title">
                                         <div class="author"><img src="{{ asset('/assets/images/testimonials/author2.jpg') }}" alt="Author"></div>
                                         <h6>Randall J. Ferguson</h6>

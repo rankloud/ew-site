@@ -6,7 +6,7 @@
                    
                     <div class="header-inner rel d-flex align-items-center">
                         <div class="logo-outer">
-                            <div class="logo"><a href="{{ route('home') }}"><img src="{{ asset('/assets/images/logos/logo.png') }}" alt="Logo" title="Logo"></a></div>
+                            <div class="logo"><a href="{{ route('home') }}"><img src="{{ asset('/assets/images/logos/ew-logo.png') }}" alt="Logo" title="Logo"></a></div>
                         </div>
 
                         <div class="nav-outer me-lg-auto ps-lg-5 ms-xxl-4 clearfix">
@@ -41,7 +41,7 @@
                         <div class="menu-btns d-lg-flex align-items-center">
                             <div class="header-number me-5 d-none d-xl-block">
                                 <i class="fas fa-phone me-1"></i>
-                                <a href="callto:+000(123)889933">+000 (123) 88 99 33</a>
+                                <a href="callto:+000(123)889933">+91 8800 446 3297 33</a>
                             </div>
                             <a href="{{ route('contact') }}" class="theme-btn btn-small color-white" data-hover="Let’s Talk">
                                 <span>Let’s Talk</span>

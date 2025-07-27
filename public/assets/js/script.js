@@ -1,5 +1,5 @@
 /*-----------------------------------------------------------------------------------
-    Template Name: Ridda - Web Design & SEO HTML Template
+    Template Name: Empireword - Web Design & SEO HTML Template
     Template URI: https://webtend.net/demo/html/ravelo/
     Author: WebTend
     Author URI:  https://webtend.net/

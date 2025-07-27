@@ -28,7 +28,7 @@
                     <div class="col-lg-4 col-sm-8" data-aos="fade-up" data-aos-duration="1500" data-aos-offset="50">
                         <div class="footer-widget footer-newsletter">
                             <div class="footer-logo mb-20">
-                                <a href="{{ route('home') }}"><img src="{{ asset('/assets/images/logos/logo.png') }}" alt="Logo"></a>
+                                <a href="{{ route('home') }}"><img src="{{ asset('/assets/images/logos/ew-logo.png') }}" alt="Logo"></a>
                             </div>
                             <p>High-quality content the heart successful marketing strategy drives engage.</p>
                             <form class="newsletter-form mt-25" action="#">
@@ -47,7 +47,7 @@
                                     <div class="footer-title">
                                         <h6>Location</h6>
                                     </div>
-                                    <div class="text">55 Main Street, 2nd block Malborne, Australia</div>
+                                    <div class="text">Kanpur, UP, India</div>
                                 </div>
                             </div>
                             <div class="col-xl-3 col-md-4 col-sm-6" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1500" data-aos-offset="50">
@@ -56,8 +56,8 @@
                                         <h6>Contact Us</h6>
                                     </div>
                                     <div class="text">
-                                        <a href="mailto:support@gmail.com">support@gmail.com</a><br>
-                                        <a href="callto:+000(123)8899">+000 (123) 88 99</a>
+                                        <a href="mailto:info@empireword.com">info@empireword.com</a><br>
+                                        <a href="callto:+000(123)8899">+91 8800 446 3297</a>
                                     </div>
                                 </div>
                             </div>
@@ -84,7 +84,7 @@
                     <div class="row">
                        <div class="col-lg-5">
                             <div class="copyright-text text-center text-lg-start">
-                                <p>Copyright © <a href="{{ route('home') }}">Ridda</a>, all rights reserved.</p>
+                                <p>Copyright © <a href="{{ route('home') }}">Empireword</a>, all rights reserved.</p>
                             </div>
                        </div>
                        <div class="col-lg-7 text-center text-lg-end">

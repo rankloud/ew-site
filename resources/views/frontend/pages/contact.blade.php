@@ -96,14 +96,14 @@
                                     <div class="col-sm-6">
                                         <div class="contact-info-item" data-aos="zoom-in" data-aos-duration="1500" data-aos-offset="50" data-aos-delay="50">
                                             <div class="icon"><i class="far fa-map-marker-alt"></i></div>
-                                            <div class="text">57 Main Street, d-block Melbourne, Australia</div>
+                                            <div class="text">Kanpur, UP, India</div>
                                         </div>
                                     </div>
                                     <div class="col-sm-6">
                                         <div class="contact-info-item" data-aos="zoom-in" data-aos-duration="1500" data-aos-offset="50" data-aos-delay="50">
                                             <div class="icon"><i class="far fa-envelope"></i></div>
                                             <div class="text">
-                                                <a href="mailto:support@gmail.com">support@gmail.com</a><br>
+                                                <a href="mailto:info@empireword.com">info@empireword.com</a><br>
                                                 <a href="www.sayan.net" target="_blank">www.sayan.net</a>
                                             </div>
                                         </div>
