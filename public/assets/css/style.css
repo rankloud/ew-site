@@ -4557,9 +4557,9 @@ h6, .h6, .tab-style-one li button, .about-circles .circle, .faq-nav li a {
     position: relative;
     text-align: center;
     margin-bottom: 33px;
-    border-radius: 10px;
+    border-radius: 100px;
     color: var(--empireword-primary-color);
-    background: rgba(var(--empireword-primary-rgb), 0.1);
+    /* background: rgba(var(--empireword-primary-rgb), 0.1); */
     border: 1px solid rgba(var(--empireword-primary-rgb), 0.1); }
     .service-item .icon:before {
       content: '';

@@ -11,10 +11,10 @@ use App\Http\Controllers\FrontendController\PageController;
 // All Index Pages Routing
 Route::controller(HomeController::class)->group(function () {
     Route::get('/', 'indexOne')->name('home'); // index
-    Route::get('index2', 'indexTwo')->name('indexTwo');
-    Route::get('index3', 'indexThree')->name('indexThree');
-    Route::get('index4', 'indexFour')->name('indexFour');
-    Route::get('index5', 'indexFive')->name('indexFive');
+    Route::get('social-media', 'indexTwo')->name('indexTwo');
+    Route::get('seo-agency', 'indexThree')->name('indexThree');
+    Route::get('video-marketing', 'indexFour')->name('indexFour');
+    Route::get('web-development', 'indexFive')->name('indexFive');
 
 });
 
