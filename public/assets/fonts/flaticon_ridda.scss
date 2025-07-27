@@ -1,16 +1,16 @@
-$flaticon_ridda-font: "flaticon_ridda";
+$flaticon_empireword-font: "flaticon_empireword";
 
 @font-face {
-    font-family: $flaticon_ridda-font;
-    src: url("./flaticon_ridda.woff2?330fcd52a61cb9bfb3604ed10546984f") format("woff2"),
-url("./flaticon_ridda.woff?330fcd52a61cb9bfb3604ed10546984f") format("woff"),
-url("./flaticon_ridda.eot?330fcd52a61cb9bfb3604ed10546984f#iefix") format("embedded-opentype"),
-url("./flaticon_ridda.ttf?330fcd52a61cb9bfb3604ed10546984f") format("truetype"),
-url("./flaticon_ridda.svg?330fcd52a61cb9bfb3604ed10546984f#flaticon_ridda") format("svg");
+    font-family: $flaticon_empireword-font;
+    src: url("./flaticon_empireword.woff2?330fcd52a61cb9bfb3604ed10546984f") format("woff2"),
+url("./flaticon_empireword.woff?330fcd52a61cb9bfb3604ed10546984f") format("woff"),
+url("./flaticon_empireword.eot?330fcd52a61cb9bfb3604ed10546984f#iefix") format("embedded-opentype"),
+url("./flaticon_empireword.ttf?330fcd52a61cb9bfb3604ed10546984f") format("truetype"),
+url("./flaticon_empireword.svg?330fcd52a61cb9bfb3604ed10546984f#flaticon_empireword") format("svg");
 }
 
 i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
-    font-family: flaticon_ridda !important;
+    font-family: flaticon_empireword !important;
     font-style: normal;
     font-weight: normal !important;
     font-variant: normal;
@@ -20,7 +20,7 @@ i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
     -moz-osx-font-smoothing: grayscale;
 }
 
-$flaticon_ridda-map: (
+$flaticon_empireword-map: (
     "twitter": "\f101",
     "social-media-marketing": "\f102",
     "creative": "\f103",
@@ -63,119 +63,119 @@ $flaticon_ridda-map: (
 );
 
 .flaticon-twitter:before {
-    content: map-get($flaticon_ridda-map, "twitter");
+    content: map-get($flaticon_empireword-map, "twitter");
 }
 .flaticon-social-media-marketing:before {
-    content: map-get($flaticon_ridda-map, "social-media-marketing");
+    content: map-get($flaticon_empireword-map, "social-media-marketing");
 }
 .flaticon-creative:before {
-    content: map-get($flaticon_ridda-map, "creative");
+    content: map-get($flaticon_empireword-map, "creative");
 }
 .flaticon-communities:before {
-    content: map-get($flaticon_ridda-map, "communities");
+    content: map-get($flaticon_empireword-map, "communities");
 }
 .flaticon-promotion:before {
-    content: map-get($flaticon_ridda-map, "promotion");
+    content: map-get($flaticon_empireword-map, "promotion");
 }
 .flaticon-quotation-mark:before {
-    content: map-get($flaticon_ridda-map, "quotation-mark");
+    content: map-get($flaticon_empireword-map, "quotation-mark");
 }
 .flaticon-trophy:before {
-    content: map-get($flaticon_ridda-map, "trophy");
+    content: map-get($flaticon_empireword-map, "trophy");
 }
 .flaticon-megaphone:before {
-    content: map-get($flaticon_ridda-map, "megaphone");
+    content: map-get($flaticon_empireword-map, "megaphone");
 }
 .flaticon-search:before {
-    content: map-get($flaticon_ridda-map, "search");
+    content: map-get($flaticon_empireword-map, "search");
 }
 .flaticon-target:before {
-    content: map-get($flaticon_ridda-map, "target");
+    content: map-get($flaticon_empireword-map, "target");
 }
 .flaticon-performance:before {
-    content: map-get($flaticon_ridda-map, "performance");
+    content: map-get($flaticon_empireword-map, "performance");
 }
 .flaticon-seo:before {
-    content: map-get($flaticon_ridda-map, "seo");
+    content: map-get($flaticon_empireword-map, "seo");
 }
 .flaticon-keywords:before {
-    content: map-get($flaticon_ridda-map, "keywords");
+    content: map-get($flaticon_empireword-map, "keywords");
 }
 .flaticon-search-engine:before {
-    content: map-get($flaticon_ridda-map, "search-engine");
+    content: map-get($flaticon_empireword-map, "search-engine");
 }
 .flaticon-link-building:before {
-    content: map-get($flaticon_ridda-map, "link-building");
+    content: map-get($flaticon_empireword-map, "link-building");
 }
 .flaticon-www:before {
-    content: map-get($flaticon_ridda-map, "www");
+    content: map-get($flaticon_empireword-map, "www");
 }
 .flaticon-world-map:before {
-    content: map-get($flaticon_ridda-map, "world-map");
+    content: map-get($flaticon_empireword-map, "world-map");
 }
 .flaticon-email:before {
-    content: map-get($flaticon_ridda-map, "email");
+    content: map-get($flaticon_empireword-map, "email");
 }
 .flaticon-call:before {
-    content: map-get($flaticon_ridda-map, "call");
+    content: map-get($flaticon_empireword-map, "call");
 }
 .flaticon-asterisk:before {
-    content: map-get($flaticon_ridda-map, "asterisk");
+    content: map-get($flaticon_empireword-map, "asterisk");
 }
 .flaticon-film-camera:before {
-    content: map-get($flaticon_ridda-map, "film-camera");
+    content: map-get($flaticon_empireword-map, "film-camera");
 }
 .flaticon-video-marketing:before {
-    content: map-get($flaticon_ridda-map, "video-marketing");
+    content: map-get($flaticon_empireword-map, "video-marketing");
 }
 .flaticon-animate:before {
-    content: map-get($flaticon_ridda-map, "animate");
+    content: map-get($flaticon_empireword-map, "animate");
 }
 .flaticon-live-streaming:before {
-    content: map-get($flaticon_ridda-map, "live-streaming");
+    content: map-get($flaticon_empireword-map, "live-streaming");
 }
 .flaticon-curve:before {
-    content: map-get($flaticon_ridda-map, "curve");
+    content: map-get($flaticon_empireword-map, "curve");
 }
 .flaticon-leadership:before {
-    content: map-get($flaticon_ridda-map, "leadership");
+    content: map-get($flaticon_empireword-map, "leadership");
 }
 .flaticon-satisfaction:before {
-    content: map-get($flaticon_ridda-map, "satisfaction");
+    content: map-get($flaticon_empireword-map, "satisfaction");
 }
 .flaticon-networking:before {
-    content: map-get($flaticon_ridda-map, "networking");
+    content: map-get($flaticon_empireword-map, "networking");
 }
 .flaticon-job-seeker:before {
-    content: map-get($flaticon_ridda-map, "job-seeker");
+    content: map-get($flaticon_empireword-map, "job-seeker");
 }
 .flaticon-job-search:before {
-    content: map-get($flaticon_ridda-map, "job-search");
+    content: map-get($flaticon_empireword-map, "job-search");
 }
 .flaticon-customer-service:before {
-    content: map-get($flaticon_ridda-map, "customer-service");
+    content: map-get($flaticon_empireword-map, "customer-service");
 }
 .flaticon-setting:before {
-    content: map-get($flaticon_ridda-map, "setting");
+    content: map-get($flaticon_empireword-map, "setting");
 }
 .flaticon-timing:before {
-    content: map-get($flaticon_ridda-map, "timing");
+    content: map-get($flaticon_empireword-map, "timing");
 }
 .flaticon-responsive:before {
-    content: map-get($flaticon_ridda-map, "responsive");
+    content: map-get($flaticon_empireword-map, "responsive");
 }
 .flaticon-online-shopping:before {
-    content: map-get($flaticon_ridda-map, "online-shopping");
+    content: map-get($flaticon_empireword-map, "online-shopping");
 }
 .flaticon-tool:before {
-    content: map-get($flaticon_ridda-map, "tool");
+    content: map-get($flaticon_empireword-map, "tool");
 }
 .flaticon-solution:before {
-    content: map-get($flaticon_ridda-map, "solution");
+    content: map-get($flaticon_empireword-map, "solution");
 }
 .flaticon-customer-support:before {
-    content: map-get($flaticon_ridda-map, "customer-support");
+    content: map-get($flaticon_empireword-map, "customer-support");
 }
 .flaticon-mail-box:before {
-    content: map-get($flaticon_ridda-map, "mail-box");
+    content: map-get($flaticon_empireword-map, "mail-box");
 }

@@ -566,7 +566,7 @@
                                 <div class="icon"><i class="flaticon-world-map"></i></div>
                                 <div class="text">
                                     Main Location
-                                    <span class="h6">57 Main Street, Melbourne, Australia</span>
+                                    <span class="h6">Kanpur, UP, India</span>
                                 </div>
                             </div>
                             <div class="contact-info-two-item">
@@ -580,7 +580,7 @@
                                 <div class="icon"><i class="flaticon-call"></i></div>
                                 <div class="text">
                                     Need Helps
-                                    <span class="h6"><a href="callto:+000(123)45688">+000 (123) 456 88</a></span>
+                                    <span class="h6"><a href="callto:+000(123)45688">+91 8800 446 3297</a></span>
                                 </div>
                             </div>
                             
